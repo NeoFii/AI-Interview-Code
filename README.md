@@ -1,4 +1,7 @@
 # AI-Interview-Code
+
+[![ApeCode.ai](https://img.shields.io/badge/🦧_ApeCode.ai-AI_Tools_&_Learning-orange?style=flat-square)](https://apecode.ai/zh) [![ApeRouter](https://img.shields.io/badge/🔗_ApeRouter-LLM_API_Proxy-blue?style=flat-square)](https://apecode.ai/zh/products/aperouter)
+
 AI 大模型相关算法中手写的面试题，（非 LeetCode），一般比 LeetCode 更考察一个人的综合能力，又更贴近业务和基础知识一点
 
 - 欢迎关注我的博客：[chaofa用代码打点酱油](https://bruceyuan.com/) ，内容一般会首先更新到博客上面，并且有更好的阅读体验。
@@ -27,3 +30,13 @@ AI 大模型相关算法中手写的面试题，（非 LeetCode），一般比 L
 | 题目 | 难度 | 知识点 | 文字解读 | 视频解读 |
 | ---- | ---- | ---- | ---- | ---- |
 | 手写 LoRA | ⭐⭐⭐⭐⭐ | 目的是为了深入了解 LoRA | [LoRA 原理和 PyTorch 代码实现](https://bruceyuan.com/hands-on-code/hands-on-lora.html) <br/> [![中文可运行 Notebook](https://img.shields.io/badge/可运行notebook-openbayes-pink)](https://openbayes.com/console/bbruceyuan/containers/OPg9Oo99ET6) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1fHmkYyE2w)](https://www.bilibili.com/video/BV1fHmkYyE2w/)<br /> |
+
+---
+
+## 🦧 More from the Author
+
+- 🌐 **[ApeCode.ai](https://apecode.ai/zh)** — AI 编程工具与学习平台
+- 🔗 **[ApeRouter](https://apecode.ai/zh/products/aperouter)** — 国内直连的 LLM API 路由
+- 📝 **[yuanchaofa.com](https://yuanchaofa.com)** — 技术博客
+- 🎬 **[B站](https://space.bilibili.com/12420432) / [YouTube](https://www.youtube.com/@bbruceyuan)**
+- 💬 微信：`bbruceyuan`
